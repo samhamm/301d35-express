@@ -1,0 +1,29 @@
+{
+  "name": "301d31-express",
+  "version": "1.0.0",
+  "description": "Code 301 Express Server Party! Wooooo!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhamm/301d31-express.git"
+  },
+  "keywords": [
+    "express",
+    "codefellows",
+    "demi",
+    "dog"
+  ],
+  "author": "Sam Hamm, Demi's Father",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samhamm/301d31-express/issues"
+  },
+  "homepage": "https://github.com/samhamm/301d31-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
