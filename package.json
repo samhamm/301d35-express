@@ -1,0 +1,29 @@
+{
+  "name": "301d35-express",
+  "version": "1.0.0",
+  "description": "NodeJS project for 301d35 on June 12, 2018",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhamm/301d35-express.git"
+  },
+  "keywords": [
+    "demi",
+    "node",
+    "server",
+    "back-end",
+    "fun"
+  ],
+  "author": "Sam Hamm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samhamm/301d35-express/issues"
+  },
+  "homepage": "https://github.com/samhamm/301d35-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
